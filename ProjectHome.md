@@ -1,0 +1,1 @@
+Traduction des tables : `creature_ai_texts`, `creature_text`, `db_script_string`, `locales_quest`, `locales_creature`, `locales_item`, `locales_achievement_reward`, `locales_gameobject`, `locales_gossip_menu_option`, `locales_set_names`, `locales_npc_text`, `locales_page_text`, `locales_points_of_interest`, `script_texts`, `trinity_string`.
